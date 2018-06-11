@@ -25,7 +25,7 @@ SECRET_KEY = 'e4vasa-tm@svs50eke-((vjaw$_1wbkj_tt)*tkx6aitcr=mvd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://shubhamgoswami.github.io/wordcount]
 
 
 # Application definition
