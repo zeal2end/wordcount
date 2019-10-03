@@ -1,0 +1,1 @@
+This program helps you to count the word. It is a web application. It counts the different and number of occurrence of a word. It is just a started project.
